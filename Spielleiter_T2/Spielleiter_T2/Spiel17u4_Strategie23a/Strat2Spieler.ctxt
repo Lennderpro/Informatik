@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Strat2Spieler
+comment0.text=\r\n\ Klasse\:\ \ Strat2Spieler\r\n\ @author\ \ PGW-Theo\ Heu\u00DFer\ \r\n\ @version\ 1.2.2023\r\n
+comment1.params=
+comment1.target=void\ entscheide()
+comment1.text=\ entscheidet,\ wann\ nicht\ mehr\ weitergewuerfelt\ wird.\r\n
+numComments=2

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DemoSpieler
+comment0.text=\r\n\ Klasse\:\ \ DemoSpieler\r\n\ @author\ \ PGW-Theo\ Heu\u00DFer\ \r\n\ @version\ 11.12.2021\r\n
+comment1.params=neuName
+comment1.target=DemoSpieler(java.lang.String)
+comment2.params=
+comment2.target=void\ entscheide()
+comment2.text=\ entscheidet,\ ob\ nicht\ mehr\ weitergew\u00FCrfelt\ wird.\ \r\n\ \ Das\ wird\ in\ der\ Variable\ fertig\ vermerkt,\r\nder\ Wert\ der\ Variable\ wird\ ggf.\ ver\u00E4ndert.
+numComments=3
