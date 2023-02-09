@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=StratSpieler()
-comment1.params=
-comment1.target=void\ entscheide()
-comment1.text=\ entscheidet,\ wann\ nicht\ mehr\ weitergew\u00FCrfelt\ wird.\n\ \ Das\ wird\ in\ der\ Eigenschaft\ 'fertig'\ vermerkt,\nder\ Wert\ dieser\ Variable\ also\ ver\u00E4ndert.
-numComments=2
