@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SLSD2
+comment0.text=\r\n\ Cheat-Strategie\ f\u00FCr\ Projekt\:\ Spieler17u4_Strategie23WM1\r\n\ \r\n\ @author\ David\ Siekacz,\ Lenn\ Stoelzl\r\n\ @version\ 01.03.2023\r\n
+comment1.params=
+comment1.target=SLSD2()
+comment1.text=\r\n\ Konstruktor\ f\u00C3\u00BCr\ Objekte\ der\ Klasse\ SLSD2\r\n
+comment2.params=name
+comment2.target=SLSD2(java.lang.String)
+comment3.params=
+comment3.target=void\ entscheide()
+comment4.params=
+comment4.target=void\ decideSpielleiter()
+numComments=5
